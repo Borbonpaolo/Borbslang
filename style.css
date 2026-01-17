@@ -1,0 +1,46 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background: #2563eb;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
+
+#map {
+  height: 70%;
+  width: 100%;
+}
+
+.user-panel {
+  padding: 1rem;
+  background: #f1f5f9;
+}
+
+.user-panel input {
+  padding: 8px;
+  width: 200px;
+}
+
+.user-panel button {
+  padding: 8px 12px;
+  background: #2563eb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.user-panel ul {
+  margin-top: 10px;
+  list-style: none;
+  padding: 0;
+}
+
+.user-panel li {
+  padding: 4px 0;
+}
